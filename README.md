@@ -4,6 +4,7 @@ Project Overview
 -------------------------------------
 Creating a phone stand in onshape CAD as a beginner, which hopefully retains the ability to hold a phone, and well at that. Started on July 12, 2026, 5 days before the July 17th final submission due date.
 
+<img width="756" height="743" alt="Screenshot 2026-07-17 10 59 58 PM" src="https://github.com/user-attachments/assets/bb946c2f-3d81-4f14-b92a-8c2254386e5b" />
 
 Intent/Reason Behind Project's Conception
 -------------------------------------
@@ -13,9 +14,7 @@ Whenever I had to record videos for something, such as a project or a presentati
 Project Details
 -------------------------------------
 
-3D Model of Small Phone Holder, able to hold most sizes of phones
-
-Pivots on a variety of axis
-
-Moves across an extendable track
+- 3D Model of Small Phone Holder, able to hold most sizes of phones
+- Pivots on a variety of axes (appears to be the plural form of axis)
+- Moves across an extendable track
 
